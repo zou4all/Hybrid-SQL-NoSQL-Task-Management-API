@@ -180,15 +180,6 @@ Returns combined SQL (task) and MongoDB (details).
 * Open the `task_details` collection
 * View and edit your MongoDB documents visually, including `comments`, `history`, and `attachments`
 
----
-
-
-
-## 🚀 To Do (optional extensions)
-
-Here's the example you can add to your README:
-
----
 
 ### 🔀 Example: Unified API to Combine SQL + NoSQL Task Data
 
